@@ -59,6 +59,7 @@
 #include <string.h>
 #include <time.h>
 
+//TODO NOT WORK BIND FILED
 
 int main() {
 
